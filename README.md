@@ -1,4 +1,6 @@
-# app
+# HackerNews
+
+A programming problem of ByteArk
 
 ## Project setup
 ```
