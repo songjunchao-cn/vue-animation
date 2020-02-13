@@ -1,6 +1,6 @@
-# HackerNews
+# vue-animation
 
-A programming problem of ByteArk
+A tiktok animation effect
 
 ## Project setup
 ```
